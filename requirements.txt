@@ -2,3 +2,5 @@ crewai
 crewai_tools
 python-dotenv
 langchain-huggingface
+youtube-transcript-api==0.6.1
+yt_dlp==2023.11.14
