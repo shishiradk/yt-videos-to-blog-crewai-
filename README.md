@@ -59,14 +59,10 @@ python crew.py
 Output blog will be saved as new-blog-post.md.
 ```
 
-##Notes
+## Notes
 Make sure your OpenAI quota is sufficient; embedding video transcripts consumes tokens.
-
 If no videos are found, refine your topic keywords.
-
 Ensure .env variables are correctly set for OpenAI and Chroma APIs.
 
-License
+## License
 MIT License
-
-Copy code
