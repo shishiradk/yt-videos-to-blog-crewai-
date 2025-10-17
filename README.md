@@ -33,7 +33,7 @@ Copy code
    git clone https://github.com/yourusername/yt-videos-to-blog-crewai.git
    cd yt-videos-to-blog-crewai
 
-##Create a .env file with your API keys:
+## Create a .env file with your API keys:
 
 ```bash
 OPENAI_API_KEY=your_openai_api_key
